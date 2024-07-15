@@ -1,0 +1,6 @@
+pygame
+gtts
+soundfile
+SpeechRecognition
+pyaudio
+pydub
